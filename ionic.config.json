@@ -1,0 +1,7 @@
+{
+  "name": "personHealth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
